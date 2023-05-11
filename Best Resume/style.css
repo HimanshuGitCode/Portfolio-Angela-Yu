@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E4F9F5;
+
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #E4F9F5;
+    ;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: relative;
+    left: 30px;
+    bottom: 300px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 90px;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.him {
+    height: 300px;
+    width: 300px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 50px;
+    width: 100px;
+    border-color: gray;
+    border-width: 5px;
+}
+
+.computer {
+    border-radius: 50%;
+}
+
+.tools {
+    border-radius: 50%;
+
+}
+
+.tools {
+    position: relative;
+    padding: 1cm;
+}
+
+.web {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-right: 30px;
+}
+
+.and {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.project {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.github{
+    font-style: bold;
+   text-shadow: red;
+}
+
+.pro{
+    font-size: 40px;
+   
+}
